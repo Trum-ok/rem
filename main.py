@@ -17,7 +17,7 @@ def validate_time(alarm_time):
 
 
 while True:
-    alarm_time = "20:49:00"
+    alarm_time = "17:53:00"
 
     validate = validate_time(alarm_time)
     if validate != "ok":
